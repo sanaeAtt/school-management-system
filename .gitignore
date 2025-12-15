@@ -1,0 +1,5 @@
+node_modules
+.env
+school.sqlite
+dist
+.DS_Store
